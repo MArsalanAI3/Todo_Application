@@ -1,5 +1,3 @@
-# Todo_Application
-
 # Todo_List_Application Deployed on Firebase using HTML5 , CSS , Bootstrap & Javascript
 
 
