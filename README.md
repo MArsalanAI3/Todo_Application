@@ -2,7 +2,7 @@
 
 
 
-[--> Navigate to Calculator Application](https://todo-application-c843a.web.app/)
+[--> Navigate to TODO Application](https://todo-application-c843a.web.app/)
 
 ### FILES DISCRIPTION:-
 
