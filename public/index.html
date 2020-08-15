@@ -12,6 +12,32 @@
 </head>
 
 <body>
+<!--  -->
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.18.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.18.0/firebase-database.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.18.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCtCj1m4cUsoTDLAj0Bv3lpmorQTHOkzjE",
+    authDomain: "todo-database-3deda.firebaseapp.com",
+    databaseURL: "https://todo-database-3deda.firebaseio.com",
+    projectId: "todo-database-3deda",
+    storageBucket: "todo-database-3deda.appspot.com",
+    messagingSenderId: "886055230886",
+    appId: "1:886055230886:web:d085bd941e40186e150367",
+    measurementId: "G-TDFXXZYMN4"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+<!--  -->
     <div class="container-fluid">
         <div class="row">
             <div class="col  col-md-8 col-lg-12   justify-content-md-center  ">
